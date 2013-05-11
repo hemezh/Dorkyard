@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^home/?$ /index.php
+RewriteRule ^poast?$ /post.php?id=2
